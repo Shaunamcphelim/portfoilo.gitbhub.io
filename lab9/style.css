@@ -1,0 +1,40 @@
+@charset "UTF-8";
+/* CSS Document */ 
+
+.jumbotron {
+		
+		background-color:#F9E79F;
+		color:white;
+}
+
+.title { 
+		font-family: American Typewriter;
+		font-size: 45px;
+		text-align: center;
+		color: black; 
+		text-decoration: underline;
+		margin: 30px;}
+
+.title2 { 
+		font-family: American Typewriter;
+		font-size: 45px;
+		text-align: center;
+		color: black; 
+		text-decoration: underline;
+		margin-top: 40px;}
+
+.row { 
+		text-align: center;
+		margin-top: 30px; }
+
+.myCarousel { margin-top: 0px; }
+
+.navbar { margin: 0px; }
+
+.video { text-align: center;
+		font-size: 30px;
+		margin: 40px;
+		 }
+
+.thumbnail { height: 200;
+			width: 200; }
